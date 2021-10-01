@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs
+/array/.vs/array/v16
+/array/array/array.vcxproj
+/array/array/array.vcxproj.filters
+/array/array/array.vcxproj.user
+/array/array.sln
